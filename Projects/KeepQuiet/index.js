@@ -14,7 +14,7 @@ fetch("../../data/gamelinks.json")
             <div>
               <h3 class="name">${k.name}</h3>
             </div>
-            <img src="./assets/icons/${k.fileName}" alt="">
+            <img src="../../assets/icons/${k.fileName}" alt="">
           </a>`
           );
         }
