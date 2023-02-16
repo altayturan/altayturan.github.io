@@ -115,22 +115,23 @@ fetch("../data/links.json")
     }
   });
 
-  fetch("../data/game-links.json")
+  fetch("../data/gamelinks.json")
   .then((response) => response.json())
   .then((json) => {
-    let linksDiv = document.querySelector("div.game-links");
+    let linksDiv = document.querySelector("div.gamelinks");
     for (let l of json.games) {
       if(linksDiv.id == l.gameName){
-
-        linksDiv.insertAdjacentHTML(
-          "beforeend",
-          `<a href="${l.links.link}" target="_blank" class="link" style="--hc: ${l.links.color};">
-          <div>
-            <h3 class="name">${l.links.name}</h3>
-          </div>
-          <img src="./assets/icons/${l.links.fileName}" alt="">
-        </a>`
-        );
+        for(let k of l.links){
+          linksDiv.insertAdjacentHTML(
+            "beforeend",
+            `<a href="${k.link}" target="_blank" class="link" style="--hc: ${k.color};">
+            <div>
+              <h3 class="name">${k.name}</h3>
+            </div>
+            <img src="./assets/icons/${k.fileName}" alt="">
+          </a>`
+          );
+        }
       }
     }
   });
