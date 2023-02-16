@@ -3,11 +3,9 @@ fetch("../../data/gamelinks.json")
   .then((response) => response.json())
   .then((json) => {
     let linksDiv = document.querySelector("div.gamelinks");
-    alert("Girdi1");
     for (let l of json.games) {
       if(linksDiv.id.toString() == l.gameName.toString()){
         for(let k of l.links){
-          alert("Girdi2");
           linksDiv.insertAdjacentHTML(
             "beforeend",
             `<a href="${k.link}" target="_blank" class="link" style="--hc: ${k.color};">
