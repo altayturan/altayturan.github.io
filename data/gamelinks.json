@@ -41,6 +41,30 @@
                 }
             ]
                 
+        },
+        {
+            "gameName": "ChronoLoop",
+            "links": [
+                {
+                    "name": "Github",
+                    "link": "https://github.com/YasarGencer/Unity-ProjectHook",
+                    "fileName": "github.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                },
+                {
+                    "name": "Youtube",
+                    "link": "https://youtu.be/MiByw_vwegY",
+                    "fileName": "youtube.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                },
+                {
+                    "name": "Play Store",
+                    "link" : "https://play.google.com/store/apps/details?id=com.RossenStudios.HookCastle&pli=1",
+                    "fileName": "playstore.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                }
+            ]
+                
         }
         
     ]
