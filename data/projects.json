@@ -1,8 +1,8 @@
 {
     "projects": [
         {
-            "name": "HMSC",
-            "imageURL": "https://github.com/Abdullah-V/media/blob/master/HMSC.png?raw=true",
+            "name": "Keep Quiet Until Death",
+            "imageURL": "../Projects/KeepQuiet/img/KQUD01.jpg",
             "description": "📂 HMSC (How Much Stuff CLI) analyst for your files and folders",
             "link": "/Projects/KeepQuiet"
         }

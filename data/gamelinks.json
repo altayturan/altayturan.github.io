@@ -5,14 +5,14 @@
             "links": [
                 {
                     "name": "Github",
-                    "link": "mailto:altayturaan@gmail.com",
+                    "link": "https://github.com/altayturan/keep-quiet-until-death",
                     "fileName": "github.svg",
                     "color": "rgba(110, 220, 255, 0.1)"
                 },
                 {
                     "name": "Youtube",
                     "link": "https://www.youtube.com/watch?v=NA33QaNcAo0",
-                    "fileName": "email.svg",
+                    "fileName": "youtube.svg",
                     "color": "rgba(110, 220, 255, 0.1)"
                 }
             ]
