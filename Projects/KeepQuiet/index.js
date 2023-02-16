@@ -2,7 +2,7 @@
 fetch("../../data/gamelinks.json")
   .then((response) => response.json())
   .then((json) => {
-    let linksDiv = document.querySelector("div.gamelinks");
+    let linksDiv = document.querySelector("div.links");
     for (let l of json.games) {
       if(linksDiv.id.toString() == l.gameName.toString()){
         for(let k of l.links){
