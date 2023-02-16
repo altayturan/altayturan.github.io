@@ -1,0 +1,109 @@
+{
+    "uses": [
+        {
+            "name": "Authy",
+            "icon": "/assets/icons/authy.png",
+            "link": "https://authy.com"
+        },
+        {
+            "name": "Bitwarden",
+            "icon": "/assets/icons/bitwarden.png",
+            "link": "https://bitwarden.com"
+        },
+        {
+            "name": "Fig",
+            "icon": "/assets/icons/fig.png",
+            "link": "https://fig.io"
+        },
+        {
+            "name": "Figma",
+            "icon": "/assets/icons/figma.png",
+            "link": "https://www.figma.com"
+        },
+        {
+            "name": "G. Calendar",
+            "icon": "/assets/icons/gcalendar.png",
+            "link": "https://calendar.google.com"
+        },
+        {
+            "name": "G. Podcasts",
+            "icon": "/assets/icons/gpodcasts.png",
+            "link": "https://podcasts.google.com"
+        },
+        {
+            "name": "GeoGebra",
+            "icon": "/assets/icons/geogebra.png",
+            "link": "https://www.geogebra.org"
+        },
+        {
+            "name": "iTerm2",
+            "icon": "/assets/icons/iterm.png",
+            "link": "https://iterm2.com"
+        },
+        {
+            "name": "MS To Do",
+            "icon": "/assets/icons/mstodo.png",
+            "link": "https://todo.microsoft.com"
+        },
+        {
+            "name": "NetNewsWire",
+            "icon": "/assets/icons/netnewswire.png",
+            "link": "https://netnewswire.com"
+        },
+        {
+            "name": "Obsidian",
+            "icon": "/assets/icons/obsidian.png",
+            "link": "https://obsidian.md"
+        },
+        {
+            "name": "Pocket",
+            "icon": "/assets/icons/pocket.png",
+            "link": "https://getpocket.com"
+        },
+        {
+            "name": "Pomotroid",
+            "icon": "/assets/icons/pomotroid.png",
+            "link": "https://splode.github.io/pomotroid"
+        },
+        {
+            "name": "ProtonVPN",
+            "icon": "/assets/icons/protonvpn.png",
+            "link": "https://protonvpn.com"
+        },
+        {
+            "name": "Raindrop",
+            "icon": "/assets/icons/raindrop.png",
+            "link": "https://raindrop.io"
+        },
+        {
+            "name": "Spark",
+            "icon": "/assets/icons/spark.png",
+            "link": "https://sparkmailapp.com"
+        },
+        {
+            "name": "Spotify",
+            "icon": "/assets/icons/spotify.png",
+            "link": "https://spotify.com"
+        },
+        {
+            "name": "TeXstudio",
+            "icon": "/assets/icons/texstudio.png",
+            "link": "https://www.texstudio.org"
+        },
+        {
+            "name": "Time Out",
+            "icon": "/assets/icons/timeout.png",
+            "link": "https://www.dejal.com/timeout"
+        },
+        {
+            "name": "Tor Browser",
+            "icon": "/assets/icons/torbrowser.png",
+            "link": "https://www.torproject.org"
+        },
+        {
+            "name": "VS Code",
+            "icon": "/assets/icons/vscode.png",
+            "link": "https://code.visualstudio.com"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "skills": [
+        {
+            "name": "Unity",
+            "fileName": "unity.svg",
+            "color": "#3570a2"
+        },
+        {
+            "name": "C#",
+            "fileName": "csharp.svg",
+            "color": "#3570a2"
+        },
+        {
+            "name": "Python",
+            "fileName": "python.svg",
+            "color": "#3570a2"
+        },
+        {
+            "name": "Git",
+            "fileName": "git.svg",
+            "color": "#de4b36"
+        },
+        {
+            "name": "Github",
+            "fileName": "github.svg",
+            "color": "#de4b36"
+        },
+        {
+            "name": "Obsidian",
+            "fileName": "obsidian.svg",
+            "color": "#de4b36"
+        },
+        {
+            "name": "Photoshop",
+            "fileName": "photoshop.svg",
+            "color": "#de4b36"
+        }
+    
+    ]
+}

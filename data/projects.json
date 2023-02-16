@@ -1,0 +1,10 @@
+{
+    "projects": [
+        {
+            "name": "HMSC",
+            "imageURL": "https://github.com/Abdullah-V/media/blob/master/HMSC.png?raw=true",
+            "description": "📂 HMSC (How Much Stuff CLI) analyst for your files and folders",
+            "link": "../Projects/KeepQuiet/index.html"
+        }
+    ]
+}

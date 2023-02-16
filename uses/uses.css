@@ -1,0 +1,100 @@
+.uses {
+  width: 100%;
+  height: 600px;
+  border-radius: 12px;
+  background-image: url(/assets/ventura-wallpaper.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.apps {
+  width: 100%;
+  height: 100%;
+  padding: 36px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-start;
+  row-gap: 32px;
+  column-gap: 16px;
+  border-radius: 12px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  background-color: rgba(35, 35, 35, 0.2);
+}
+
+.apps:after {
+  content: "";
+  flex: auto;
+}
+
+.app {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 8px;
+  cursor: pointer;
+}
+
+.app img {
+  width: 64px;
+  height: 64px;
+}
+
+.app span {
+  color: rgb(221, 221, 221);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.app:hover span {
+  color: white;
+  /* text-decoration: underline; */
+}
+
+@media screen and (max-width: 955px) {
+  .uses {
+    height: 800px;
+  }
+}
+
+@media screen and (max-width: 735px) {
+  .uses {
+    height: 1000px;
+  }
+}
+
+@media screen and (max-width: 735px) {
+  .apps:after {
+    content: none;
+  }
+}
+
+@media screen and (max-width: 455px) {
+  .uses {
+    height: auto;
+  }
+  .apps {
+    padding: 18px;
+    row-gap: 20px;
+    column-gap: 8px;
+  }
+  .app {
+    width: 80px;
+    height: 80px;
+  }
+  .app img {
+    width: 48px;
+    height: 48px;
+  }
+
+  .app span {
+    font-size: 12px;
+    font-weight: 600;
+  }
+}

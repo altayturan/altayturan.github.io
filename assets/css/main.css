@@ -1,0 +1,43 @@
+@import url("./reset.css");
+@import url("./variables.css");
+@import url("./menu.css");
+
+::selection {
+  color: white;
+  background: #ff7733;
+}
+
+::-moz-selection {
+  color: white;
+  background: #ff7733;
+}
+
+main {
+  padding: 100px;
+  margin-top: 48px;
+}
+
+.page-title {
+  font-size: var(--fs-61);
+  margin-bottom: 64px;
+}
+
+a.link {
+  color: #ff7733;
+}
+
+a.link:hover {
+  color: #db5625;
+}
+
+@media screen and (max-width: 865px) {
+  main {
+    padding: 100px 50px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  main {
+    padding: 100px 25px;
+  }
+}
