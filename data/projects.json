@@ -1,10 +1,28 @@
 {
     "projects": [
         {
+            "name": "Hook Castle",
+            "imageURL": "https://yasargencer.github.io/img/HookCastleCover.png",
+            "description": "Published on Google Play Store",
+            "link": "/Projects/HookCastle"
+        },
+        {
             "name": "Keep Quiet Until Death",
             "imageURL": "https://raw.githubusercontent.com/altayturan/altayturan.github.io/main/Projects/KeepQuiet/img/KQUD04.jpg",
-            "description": "📂 HMSC (How Much Stuff CLI) analyst for your files and folders",
+            "description": "Jam Game - Unpublished",
             "link": "/Projects/KeepQuiet"
+        },
+        {
+            "name": "ChronoLoop",
+            "imageURL": "https://raw.githubusercontent.com/altayturan/altayturan.github.io/main/Projects/KeepQuiet/img/KQUD04.jpg",
+            "description": "Jam Game - Unpublished",
+            "link": "/Projects/ChronoLoop"
+        },
+        {
+            "name": "Ninja Hero",
+            "imageURL": "https://raw.githubusercontent.com/altayturan/altayturan.github.io/main/Projects/KeepQuiet/img/KQUD04.jpg",
+            "description": "Case Project - Ubpublished",
+            "link": "/Projects/Ninja Hero"
         }
     ]
 }
