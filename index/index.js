@@ -115,12 +115,12 @@ fetch("../data/links.json")
     }
   });
 
-  fetch("../data/gamelinks.json")
+fetch("../data/gamelinks.json")
   .then((response) => response.json())
   .then((json) => {
     let linksDiv = document.querySelector("div.gamelinks");
     for (let l of json.games) {
-      if(linksDiv.id == l.gameName){
+      if(linksDiv.id.toString() == l.gameName.toString()){
         for(let k of l.links){
           linksDiv.insertAdjacentHTML(
             "beforeend",
