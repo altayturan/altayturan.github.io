@@ -1,5 +1,5 @@
 
-fetch("../data/gamelinks.json")
+fetch("../../data/gamelinks.json")
   .then((response) => response.json())
   .then((json) => {
     let linksDiv = document.querySelector("div.gamelinks");
