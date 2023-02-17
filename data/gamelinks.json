@@ -59,6 +59,30 @@
                 }
             ]
                 
+        },
+        {
+            "gameName": "NinjaHero",
+            "links": [
+                {
+                    "name": "Github",
+                    "link": "https://github.com/altayturan/ninja-hero",
+                    "fileName": "github.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                },
+                {
+                    "name": "Youtube",
+                    "link": "https://youtu.be/966hV2WiFvE",
+                    "fileName": "youtube.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                },
+                {
+                    "name": "Download - Itch.io",
+                    "link" : "https://altay434.itch.io/chrono-loop",
+                    "fileName": "winrar.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                }
+            ]
+                
         }
         
     ]
