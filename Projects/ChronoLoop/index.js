@@ -8,7 +8,7 @@ fetch("../../data/gamelinks.json")
         for(let k of l.links){
           linksDiv.insertAdjacentHTML(
             "beforeend",
-            `<a href="${k.link}"  class="link" style="--hc: ${k.color};">
+            `<a href="${k.link}" target="_blank" download="ChronoLoop" class="link" style="--hc: ${k.color};">
             <div>
               <h3 class="name">${k.name}</h3>
             </div>
