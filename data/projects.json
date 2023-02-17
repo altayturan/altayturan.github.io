@@ -20,9 +20,9 @@
         },
         {
             "name": "Ninja Hero",
-            "imageURL": "https://raw.githubusercontent.com/altayturan/altayturan.github.io/main/Projects/KeepQuiet/img/KQUD04.jpg",
-            "description": "Case Project - Ubpublished",
-            "link": "/Projects/Ninja Hero"
+            "imageURL": "https://raw.githubusercontent.com/altayturan/ninja-hero/main/Project-Staj/Recordings/image_001_0000.jpg",
+            "description": "Case Project - Unpublished",
+            "link": "/Projects/NinjaHero"
         }
     ]
 }
