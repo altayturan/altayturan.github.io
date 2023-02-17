@@ -20,7 +20,7 @@
         },
         {
             "name": "Ninja Hero",
-            "imageURL": "https://raw.githubusercontent.com/altayturan/ninja-hero/main/Project-Staj/Recordings/image_001_0000.jpg",
+            "imageURL": "/Projects/NinjaHero/img/thumb.jpg",
             "description": "Case Project - Unpublished",
             "link": "/Projects/NinjaHero"
         }
