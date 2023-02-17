@@ -14,7 +14,7 @@
             "location": "Remote",
             "date": "Jan 2022 - Jan 2023",
             "logo": "shifto.png",
-            "summary": "- Developing core game mechanics <br> - Game design"
+            "summary": "The team founded with friends <br> - Developing core game mechanics <br> - Game design"
         },
         {
             "title": "Developer",
@@ -22,7 +22,7 @@
             "location": "Bursa, Turkey",
             "date": "Dec 2020 - Sep 2021",
             "logo": "drone.png",
-            "summary": "- Work with data from sensors such as camera, GPS etc <br> - Develop algorithms for UAV"
+            "summary": "- Working with data from sensors such as camera, GPS etc <br> - Developing algorithms for UAV"
         }
     ]
 }
