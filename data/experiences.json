@@ -1,6 +1,14 @@
 {
     "experiences": [
         {
+            "title": "Intern Game Developer",
+            "company": "Pow Games",
+            "location": "Bursa, Turkey",
+            "date": "Feb 2023",
+            "logo": "powgames.jpg",
+            "summary": ""
+        },
+        {
             "title": "Founder",
             "company": "ULUDOTT",
             "location": "Bursa, Turkey",
