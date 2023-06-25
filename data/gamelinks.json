@@ -83,6 +83,30 @@
                 }
             ]
                 
+        },
+        {
+            "gameName": "MistInLab",
+            "links": [
+                {
+                    "name": "Github",
+                    "link": "https://github.com/Aere612/MistInLab",
+                    "fileName": "github.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                },
+                {
+                    "name": "Gameplay",
+                    "link": "https://youtu.be/N4tTzJGmTk8",
+                    "fileName": "youtube.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                },
+                {
+                    "name": "Download - Itch.io",
+                    "link" : "https://aere612.itch.io/mist-in-lab",
+                    "fileName": "winrar.svg",
+                    "color": "rgba(110, 220, 255, 0.1)"
+                }
+            ]
+
         }
         
     ]

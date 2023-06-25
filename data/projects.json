@@ -1,6 +1,12 @@
 {
     "projects": [
         {
+            "name": "Mist In Lab",
+            "imageURL": "/Projects/MistInLab/img/thumb.png",
+            "description": "University Project",
+            "link": "/Projects/MistInLab"
+        },
+        {
             "name": "Hook Castle",
             "imageURL": "https://yasargencer.github.io/img/HookCastleCover.png",
             "description": "Published on Google Play Store",
