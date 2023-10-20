@@ -27,6 +27,13 @@
             "link": "https://www.instagram.com/altay.mp4",
             "fileName": "instagram.svg",
             "color": "rgba(225, 48, 108, 0.07)"
+        },
+        {
+            "name": "Itch.io",
+            "description": "",
+            "link": "https://altay434.itch.io",
+            "fileName": "itchio.svg",
+            "color": "rgba(254, 153, 108, 0.07)"
         }
     ]
 }
