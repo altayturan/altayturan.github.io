@@ -1,18 +1,26 @@
 {
     "experiences": [
         {
-            "title": "Intern Game Developer",
-            "company": "Pow Games",
+            "title": "Game Developer",
+            "company": "Mega Fortuna",
             "location": "Bursa, Turkey",
-            "date": "Feb 2023",
-            "logo": "powgames.jpg",
-            "summary": " Hybrid-Casual Game Studio <br> - SDK Entegration <br> - Game Development <br> - Unity <br> - OOP"
+            "date": "Oct 2023 - Continues",
+            "logo": "megafortuna.jpeg",
+            "summary": "Mobile Game Studio <br> - SDK Entegration <br> - Game Development <br> - Unity <br> - OOP"
+        },
+        {
+            "title": "Intern Game Developer",
+            "company": "Mega Fortuna",
+            "location": "Bursa, Turkey",
+            "date": "Feb 2023 - Oct 2023",
+            "logo": "megafortuna.jpeg",
+            "summary": "Mobile Game Studio <br> - SDK Entegration <br> - Game Development <br> - Unity <br> - OOP"
         },
         {
             "title": "Founder",
             "company": "ULUDOTT",
             "location": "Bursa, Turkey",
-            "date": "Nov 2022",
+            "date": "Nov 2022 - Continues",
             "logo": "uludott.png",
             "summary": "Digital Game Design Student Society <br> - Organization <br> - Management <br> - Communication"
         },
